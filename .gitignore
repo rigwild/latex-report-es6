@@ -1,0 +1,13 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.glsdefs
+*.glo
+*.ist
+*.glg
+*.gls
+*.lof
+*.out
+*.synctex.gz
+*.toc
